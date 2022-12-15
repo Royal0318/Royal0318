@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Royal0318
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hyeun Woo Do!
+- 👀 I’m Student
+- 🌱 I'm learning backend
+- 💞️ I upload it every Tuesday through Sunday
+- 📫 Thank you for coming
 
 <!---
 Royal0318/Royal0318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
