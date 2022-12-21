@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HEWEON%20DO&fontSize=90)
+
 - 👋 Hi, I’m Hyeun Woo Do!
 - 👀 I’m Student
 - 🌱 I'm learning backend
@@ -13,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Royal0318)](https://github.com/ryo-ma/github-profile-trophy)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HEWEON%20DO&fontSize=90)
+
