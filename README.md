@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEWEON%20DO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FCDF8A,100:FACD88&height=300&section=header&text=HEWEON%20DO&fontSize=90)
 
 - 👋 Hi, I’m Hyeun Woo Do!
 - 👀 I’m Student
