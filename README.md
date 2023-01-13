@@ -14,6 +14,3 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Royal0318)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Royal0318's github stats](https://github-readme-stats.vercel.app/api?username=Royal0318&show_icons=true)
-
-
